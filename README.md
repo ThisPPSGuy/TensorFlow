@@ -1,3 +1,7 @@
+
+#this was slightly updated by Piyush Pritam Sahoo on 30 Oct 2021 at 16:32 hrs
+
+
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
